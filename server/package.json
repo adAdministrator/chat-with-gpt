@@ -4,6 +4,7 @@
   "description": "An open-source ChatGPT app with a voice",
   "main": "index.js",
   "scripts": {
+    "build": "run",
     "test": "jest",
     "start": "npx ts-node --logError src/index.ts"
   },
